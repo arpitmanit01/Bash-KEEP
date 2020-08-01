@@ -6,5 +6,5 @@ A "Command - Line Based" Pure Backend Notes Keeping App using NodeJS which works
 /*Updates*/ 
 
 ---> Supports Tab Completion<br>
----> Added Help Guide for user.(No Need to Sit Read a Boring Guide😄... let the App tell you how it works!!!😉 )<br> 
+---> Added Help Guide for user.(No Need to sit snd read a boring Guide😄... let the App tell you how it works!!!😉 )<br> 
 ---> Utilized Chalk Module for Interactive I/O . ( ...or Just Make-Up😂 )<br> 
